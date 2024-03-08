@@ -2,7 +2,7 @@
 
 "L0v3 N1gg3rs" is community open web service for you order 3d printing in your area. You can search by type of printer, capabilities and by users review. In future we plan to support in app payment in delivery.
 
-## 💡 Get started with "L0v3 N1gg3rs"
+## 💡 Get started with PrintSpot
 
 See our online version of app <>.
 
@@ -23,6 +23,6 @@ We take security of our products and services very seriously. If you have found 
 ## 📂 Repositories
 
 <!-- alphabetical -->
-* [https://github.com/BigGayDev/loveniggers-mono](https://github.com/BigGayDev/loveniggers-mono): [ReactNavite](https://reactnative.dev/) web, mobile and desktop version
-* [API](https://github.com/BigGayDev/loveniggers-api): [NestJs](https://nestjs.com/) api for native version of app
-* [Web](https://github.com/BigGayDev/loveniggers-web): [NextJs](https://nextjs.org/) native web app version
+* [https://github.com/BigGayDev/loveniggers-mono](https://github.com/BigGayDev/PrintSpot-Mono): [ReactNavite](https://reactnative.dev/) web, mobile and desktop version
+* [API](https://github.com/BigGayDev/PrintSpot-API): [NestJs](https://nestjs.com/) api for native version of app
+* [Web](https://github.com/BigGayDev/PrintSpot-Web): [NextJs](https://nextjs.org/) native web app version
