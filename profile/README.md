@@ -19,8 +19,3 @@ Any suggestion or feedback is highly appreciated. Thank you so much for your sup
 ## 🛡️ Security
 
 We take security of our products and services very seriously. If you have found a security vulnerability in any version of our software, pleas report it to us as described in our [security policy](https://github.com/BigGayDev/.github/blob/main/SECURITY.md).
-
-## 📂 Repositories
-
-<!-- alphabetical -->
-* [PrintSpot](https://github.com/BigGayDev/PrintSpot): [ReactNavite](https://reactnative.dev/) web, mobile and desktop version
