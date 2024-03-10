@@ -1,5 +1,7 @@
 # 👋 Welcome to the Big Gay organization
 
+<img src="" al="Family friendly biggay background">
+
 PrintSpot is community open web service for you order 3d printing in your area. You can search by type of printer, capabilities and by users review. In future we plan to support in app payment in delivery.
 
 ## 💡 Get started with PrintSpot
