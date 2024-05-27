@@ -2,13 +2,18 @@
 
 <img src="./profile/Background.jpeg" al="Family friendly biggay background">
 
-PrintSpot is community open web service for you order 3d printing in your area. You can search by type of printer, capabilities and by users review. In future we plan to support in app payment in delivery.
-
 ## 💡 Get started with PrintSpot
 
-See our online version of app <>.
+Visit PrintSpot and find a local seller to help you bring your 3D printing projects to life.
 
-You can also download it on your pc <>. For better menagement of your 3d buissnes.
+- Fast and easy filtering: Find the perfect seller by filtering by printer capabilities, material type, price, and location.
+- Wide variety of materials: Choose from a variety of materials, including PLA, ABS, PETG, nylon, TPU, and many more.
+- Variety of print types: Order FDM, SLA, SLS, and DMLS prints.
+- Customization to your needs: Sellers can customize prints to your specific requirements, including layer thickness, infill, and print orientation.
+- Easy order tracking: Track the status of your order online and receive notifications about updates.
+- You can add more details to the list of benefits, such as providing specific examples of printer capabilities or material types.
+- You can also mention other PrintSpot features, such as seller reviews, guarantees, and secure payments.
+- You can use more persuasive language to encourage people to try PrintSpot. For example, you can use action verbs or emphasize the benefits to the user.
 
 ## 🥰 Community & Development
 
