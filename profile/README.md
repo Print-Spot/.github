@@ -1,6 +1,6 @@
 # 👋 Welcome to the PrintSpot
 
-<img src="./profile/Background.jpeg" al="Family friendly biggay background">
+<img src="./Background.jpeg" al="Family friendly biggay background">
 
 ## 💡 Get started with PrintSpot
 
