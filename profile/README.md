@@ -1,8 +1,5 @@
 # 👋 Welcome to the PrintSpot
-
-<img src="./Background.jpeg" al="Family friendly biggay background">
-
-## 💡 Get started with PrintSpot
+<!-- ## 💡 Get started with PrintSpot -->
 
 Visit PrintSpot and find a local seller to help you bring your 3D printing projects to life.
 
